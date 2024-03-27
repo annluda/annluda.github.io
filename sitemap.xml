@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/animals/</loc>
+    <loc>https://annluda.github.io/animals/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/fashion-beauty/</loc>
+    <loc>https://annluda.github.io/fashion-beauty/</loc>
   </url><url>
-    <loc>https://example.org/nature/</loc>
+    <loc>https://annluda.github.io/nature/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://annluda.github.io/</loc>
     <lastmod>2024-03-27T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://annluda.github.io/about/</loc>
   </url><url>
-    <loc>https://example.org/imprint/</loc>
+    <loc>https://annluda.github.io/imprint/</loc>
   </url>
 </urlset>
