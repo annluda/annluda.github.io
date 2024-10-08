@@ -1,5 +1,7 @@
 User-agent: *
 
+Disallow: /wulanbutong/
+
 Disallow: /dali/
 
 Disallow: /shangrila/
