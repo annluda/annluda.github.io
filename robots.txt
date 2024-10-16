@@ -8,6 +8,8 @@ Disallow: /shangrila/
 
 Disallow: /weddingdress/
 
+Disallow: /disney/
+
 Disallow: /
 
 Disallow: /hello/
