@@ -10,6 +10,8 @@ Disallow: /weddingdress/
 
 Disallow: /disney/
 
+Disallow: /guanguan/
+
 Disallow: /
 
 Disallow: /hello/
