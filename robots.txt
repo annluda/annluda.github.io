@@ -10,7 +10,9 @@ Disallow: /weddingdress/
 
 Disallow: /disney/
 
-Disallow: /guanguan/
+Disallow: /1month/
+
+Disallow: /100days/
 
 Disallow: /
 
