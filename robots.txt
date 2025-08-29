@@ -14,6 +14,8 @@ Disallow: /1month/
 
 Disallow: /100days/
 
+Disallow: /4months/
+
 Disallow: /
 
 Disallow: /hello/
