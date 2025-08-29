@@ -1,86 +1,94 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A&amp;G&amp;A Life</title>
-    <link>https://guanguanguamo.life/</link>
-    <description>Recent content on A&amp;G&amp;A Life</description>
+    <title>A&amp;G&amp;G Life</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on A&amp;G&amp;G Life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <managingEditor>an@gu.com (anluda)</managingEditor>
     <webMaster>an@gu.com (anluda)</webMaster>
     <copyright>© Anluda</copyright>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0800</lastBuildDate><atom:link href="https://guanguanguamo.life/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>乌兰布统</title>
-      <link>https://guanguanguamo.life/wulanbutong/</link>
+      <link>http://localhost:1313/wulanbutong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/wulanbutong/</guid><media:content url="https://guanguanguamo.life/wulanbutong/IMG_0424_hu_5848cd96f9376e80.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/wulanbutong/</guid>
+        <media:content url="http://localhost:1313/wulanbutong/IMG_0424_hu_ad3bdc66a0d46b09.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/wulanbutong/IMG_0424_hu_5848cd96f9376e80.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/wulanbutong/IMG_0424_hu_ad3bdc66a0d46b09.JPG&quot; /&gt;
           &lt;p&gt;在乌兰布统的金色秋天，天空湛蓝如洗，辽阔的草原仿佛披上了金黄的毯子。微风轻拂，我们和伍万一同漫步在这片无边的天地间，感受大自然的静谧与壮丽。伍万肆意撒欢，我们尽情享受。在这秋日的柔光下，连呼吸都变得温柔。&lt;/p&gt;
         </description></item>
     <item>
       <title>大理</title>
-      <link>https://guanguanguamo.life/dali/</link>
+      <link>http://localhost:1313/dali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/dali/</guid><media:content url="https://guanguanguamo.life/dali/IMG_7017_hu_7a5dedc9dccffb41.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/dali/</guid>
+        <media:content url="http://localhost:1313/dali/IMG_7017_hu_c245f20e86936b97.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/dali/IMG_7017_hu_7a5dedc9dccffb41.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/dali/IMG_7017_hu_c245f20e86936b97.JPG&quot; /&gt;
           &lt;p&gt;我们漫步在古城的青石板路上，手牵着手，仿佛走过了岁月的长河。苍山洱海见证了我们的誓言，风花雪月编织着我们的回忆。每一个瞬间都那么珍贵，仿佛天地间只有我们两个人。大理不仅是风景如画的胜地，更是我们爱情故事的诗篇。&lt;/p&gt;
         </description></item>
     <item>
       <title>香格里拉</title>
-      <link>https://guanguanguamo.life/shangrila/</link>
+      <link>http://localhost:1313/shangrila/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0800</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/shangrila/</guid><media:content url="https://guanguanguamo.life/shangrila/69FD072B-45B7-454B-8646-33CA1182A4CC_hu_83542abf611d9b2d.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/shangrila/</guid>
+        <media:content url="http://localhost:1313/shangrila/69FD072B-45B7-454B-8646-33CA1182A4CC_hu_f4349a3a5b31161f.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/shangrila/69FD072B-45B7-454B-8646-33CA1182A4CC_hu_83542abf611d9b2d.jpeg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/shangrila/69FD072B-45B7-454B-8646-33CA1182A4CC_hu_f4349a3a5b31161f.jpeg&quot; /&gt;
           &lt;p&gt;香格里拉，那片净土，空气中弥漫着纯净的气息，宛如我们爱情的象征。我们漫步在松赞林寺的红墙金顶之间，聆听着经文的低吟，感受到心灵的宁静与安详。而当我们站在梅里雪山下，仰望着那巍峨的雪峰，感受到一种震撼心灵的美。日照金山的那一刻，整个世界都被温暖的金色光芒包围，我们彼此的眼神中充满了爱与希望。&lt;/p&gt;
         </description></item>
     <item>
       <title>婚纱</title>
-      <link>https://guanguanguamo.life/weddingdress/</link>
+      <link>http://localhost:1313/weddingdress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/weddingdress/</guid><media:content url="https://guanguanguamo.life/weddingdress/BF-3295_hu_7f3a6f3ce6e4d17b.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/weddingdress/</guid>
+        <media:content url="http://localhost:1313/weddingdress/BF-3295_hu_a88de222e2b02787.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/weddingdress/BF-3295_hu_7f3a6f3ce6e4d17b.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/weddingdress/BF-3295_hu_a88de222e2b02787.jpg&quot; /&gt;
           &lt;p&gt;Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day. It&#39;s about waking up every morning and making the decision to love and cherish the person next to you. True love is not just about the good times, but about enduring through the challenges and growing stronger together. It’s about understanding, patience, and unwavering commitment. When you truly love someone, you do everything in your power to see them happy, to see them succeed, and to be their support in every step of the way.&lt;/p&gt;
         </description></item>
     <item>
       <title>迪士尼</title>
-      <link>https://guanguanguamo.life/disney/</link>
+      <link>http://localhost:1313/disney/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/disney/</guid><media:content url="https://guanguanguamo.life/disney/IMG_3533_hu_9b746f43f20bb5e5.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/disney/</guid>
+        <media:content url="http://localhost:1313/disney/IMG_3533_hu_f75f2648ba90db88.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/disney/IMG_3533_hu_9b746f43f20bb5e5.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/disney/IMG_3533_hu_f75f2648ba90db88.JPG&quot; /&gt;
           &lt;p&gt;我们一起走进上海迪士尼的世界，仿佛回到了童年。阳光下的城堡如梦幻般耀眼，旋转木马上，我们笑得像孩子一样纯真。你拉着我的手穿越人群，伴着欢快的音乐和游行，我们的脚步轻快又自由。每一个游戏、每一张照片，都记录着属于我们的甜蜜时光。夜幕降临，烟花在星空中绽放，我们依偎在一起，许下心中的愿望。迪士尼的魔法，承载着我们的快乐回忆，愿这段时光永远珍藏在彼此心中。&lt;/p&gt;
         </description></item>
     <item>
       <title>满月</title>
-      <link>https://guanguanguamo.life/1month/</link>
+      <link>http://localhost:1313/1month/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/1month/</guid><media:content url="https://guanguanguamo.life/1month/IMG_0546_hu_dccfd5e18eaa41f3.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/1month/</guid>
+        <media:content url="http://localhost:1313/1month/IMG_0546_hu_63da4f887768b1d6.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/1month/IMG_0546_hu_dccfd5e18eaa41f3.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/1month/IMG_0546_hu_63da4f887768b1d6.JPG&quot; /&gt;
           &lt;p&gt;关关，你的到来是生命馈赠的诗行，是漫长等待后最珍贵的答案。想陪你看四季流转，想教你咿呀学语，想在你蹒跚学步时张开双臂，接住你第一次扑向我的怀抱。&lt;/p&gt;
         </description></item>
     <item>
       <title>百天</title>
-      <link>https://guanguanguamo.life/100days/</link>
+      <link>http://localhost:1313/100days/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/100days/</guid><media:content url="https://guanguanguamo.life/100days/IMG_0914_hu_9c61f939f9de474a.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/100days/</guid>
+        <media:content url="http://localhost:1313/100days/IMG_0914_hu_5d7a43e6b9367449.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/100days/IMG_0914_hu_9c61f939f9de474a.JPG&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/100days/IMG_0914_hu_5d7a43e6b9367449.JPG&quot; /&gt;
           &lt;p&gt;从第一声啼哭到第一个微笑，从轻轻握住我们手指的瞬间，到悄悄闯入我们生活的每一分每一秒。你来了，带着春天的柔光与星辰的祝福。这一百天，虽然只是你人生旅途中的起点，却已是我们生命中最温柔、最灿烂的章节。你的一举一动，一颦一笑，都让我们心中溢满了感恩与欢喜。&lt;/p&gt;
         </description></item>
     <item>
       <title>六月</title>
-      <link>https://guanguanguamo.life/4months/</link>
+      <link>http://localhost:1313/4months/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>an@gu.com (anluda)</author>
-      <guid>https://guanguanguamo.life/4months/</guid><media:content url="https://guanguanguamo.life/4months/IMG_9099_hu_184d61c01696a5ae.JPG" type="image/jpeg"/>
+      <guid>http://localhost:1313/4months/</guid>
+        <media:content url="http://localhost:1313/4months/IMG_9099_hu_d5c50b03d7dbd254.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://guanguanguamo.life/4months/IMG_9099_hu_184d61c01696a5ae.JPG&quot; /&gt;
-          &lt;p&gt;小家的大合影。&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/4months/IMG_9099_hu_d5c50b03d7dbd254.JPG&quot; /&gt;
+          &lt;p&gt;小家的大合影，爱每一个人和每一只狗。&lt;/p&gt;
         </description></item>
   </channel>
 </rss>
